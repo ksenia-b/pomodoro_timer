@@ -64,7 +64,6 @@ const Timer = (props) => {
           handleStartTimer={handleStartTimer}
           text={startTimer ? "Pause" : "Play"}
         ></Play>
-
         <Next handleSetState={handleSetState}>Next Button</Next>
       </Box>
     </Box>

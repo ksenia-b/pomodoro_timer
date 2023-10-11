@@ -6,6 +6,7 @@ import Settings from "./Settings";
 import Play from "./Play";
 import Next from "./Next";
 import { STATE_SECONDS, STATE_FLOW, STATE_INFO, STATES_IDS } from "../const";
+
 import { themes } from "../themes";
 
 const Timer = (props) => {
